@@ -1,0 +1,7 @@
+img_ori/
+.idea/
+rendering/
+rendering_out/
+resizeImage.py
+test_img/
+
